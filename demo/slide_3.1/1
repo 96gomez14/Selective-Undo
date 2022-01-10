@@ -1,0 +1,130 @@
+.fxd_bg-wh_shadow_header {
+    position: relative;
+    left:300px;
+    bottom:550px;
+}
+
+.img-r_logo_logo_en {
+position:relative;
+right:50px;
+bottom:50px;
+}
+
+.menu-simple {
+  position:relative;
+  right:50px;
+}
+
+.krakatoa-container {
+position:relative;
+  top:300px;
+  right:270px;
+}
+
+.Secondary_info {
+  position:relative;
+  right:300px;
+}
+
+#All {
+position:relative;
+background-color:#FFE4C4;
+height:1000px;
+width:1000px;
+left:300px;
+bottom:350px;
+}
+
+#buttons {
+position:relative;
+padding-bottom:200px;
+}
+
+
+#right_buttons {
+position:relative;
+left:200px;
+}
+
+#left_buttons {
+position: absolute;
+}
+
+#Italy_image {
+  position:absolute;
+  width:400px;
+  height:400px;
+  right:1100px;
+  top:75px;
+}
+
+#More_info {
+  position:relative;
+  top:250px;
+  right:200px;
+}
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:300px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:200px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Select_All {
+position:relative;
+left:35px;
+}
+
+#Deselect_All {
+position:relative;
+left:35px;
+}
+
+#Undo {
+position:relative;
+left:60px;
+top:10px;
+}
+
+#Home {
+position:relative;
+top:10px;
+left:20px;
+}
+
+#Intro {
+background:Yellow;
+}
+
+#Header {
+position:relative;
+background:Gray;
+width:400px;
+height:75px;
+left:300px;
+font-family:"Comic Sans MS";
+font-size:40px;
+}
+
+#Header_format {
+text-align:center;
+}
+
+#Body {
+background:Gray;
+width:400px;
+font-family:"Comic Sans MS";
+}

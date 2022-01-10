@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Popup</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="styles2.css">
+<link rel="stylesheet" type="text/css" href="shapetree.css">
+<script  type="text/javascript" src="shapetreemenu.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="events.js"></script>
+</head>
+<body>
+<h1>Task Types</h1>
+<div id=tree_stuff>
+<ul id="treemenu" class="treeview" rel="open">
+<li>Add
+<ul rel="closed" class="submenu">
+<li id="Page" class="Unclicked">Square</li>
+<li id="Page" class="Unclicked">Trapezoid</li>
+<li id="Page" class="Unclicked">Triangle</li>
+</ul>
+</li>
+<li>Delete
+<ul rel="closed" class="submenu">
+<li id="Page" class="Unclicked">Square</li>
+<li>Triangle</li>
+</ul></li>
+<li>Replace</li>
+<li>Set
+<ul rel="closed" class="submenu">
+<li id="Color" class="Unclicked">Color</li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript">
+//ddtreemenu.createTree(treeid, enablepersist, opt_persist_in_days (default is 1))
+ddtreemenu.createTree("treemenu", true, 5)
+</script>
+<button id="Complete_Undo" >Undo</button>
+<button id="Reset" >Reset</button>
+</div>
+<h1 id="Task_List" style="display:none;">Task List</h1>
+<div id="tasks">
+<span class="Set_Color"style="display:none;"><label><input type="checkbox">Set Color: Green</label><img src="Green.png"><br></span>
+<span class="Add_Textbox"style="display:none;"><label><input type="checkbox">Add Square: Square 1</label><img class="Add_Textbox_Image" src="Image1.png"><br></span>
+<span class="Set_Color"style="display:none;"><label><input type="checkbox">Set Color: Blue</label><img class="Set_Color_Image" src="Blue.png"><br></span>
+<span class="Add_Textbox"style="display:none;"><label><input type="checkbox">Add Square: Square 2</label><img class="Add_Textbox_Image" src="Image2.png"><br></span>
+<span id="Indent" class="Delete_Square"style="display:none;"><label><input type="checkbox">Delete Square: Square 2</label><img class="Delete_Square_Image" src="Image3.png"><br></span>
+<span id="Indent" class="Delete_Square"><label><input type="checkbox">Delete Square: Square 1</label><img class="Delete_Square_Image" src="last_slide.png"><br></span>
+
+</div>
+
+<img id="Magnifier" class="Not_Magnified" src="">
+</body>
+</html>

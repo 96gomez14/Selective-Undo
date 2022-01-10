@@ -1,0 +1,45 @@
+#buttons {
+position:relative;
+left:300px;
+bottom:350px;
+padding-bottom:200px;
+background-color:#000000;
+}
+
+#left_buttons {
+position:absolute;
+}
+
+#right_buttons {
+position:relative;
+padding-left:200px;
+}
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:300px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:120px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Undo {
+position:relative;
+left:40px;
+top:10px;
+}
+
+#Intro {
+background:#808080;
+}

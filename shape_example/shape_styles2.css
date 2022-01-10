@@ -1,0 +1,200 @@
+#Squares {
+background:#FFFF00;
+}
+
+.circle {
+display:none;
+position:relative;
+z-index:0;
+left:390px;
+top:200px;
+border-color:#008000;
+width: 300px;
+height: 75px;
+border:10px solid #008000;
+border-radius:50%;
+}
+
+.img-r_logo_logo_en {
+position:relative;
+left:780px;
+bottom:400px;
+text-font:32px;
+}
+#Navigation_label {
+position:relative;
+left:70px;
+}
+#Pointy_shapes {
+position:relative;
+left:400px;
+bottom:5px;
+}
+
+#Pink_square {
+position:absolute;
+left:100px;
+top:200px;
+background: #FF69B4;
+height:100px;
+width:100px;
+border:10px solid #333333;
+display:none;
+}
+
+#left_line {
+position:relative;
+top:40px;
+right:40px;
+height:10px;
+width:180px;
+background:#FF0000;
+transform: rotate(45deg);
+z-index: 1;
+display:none;
+}
+
+#right_line {
+position:relative;
+top:35px;
+right:40px;
+height:10px;
+width:180px;
+background:#FF0000;
+transform: rotate(315deg);
+z-index:2;
+display:none;
+}
+
+#Orange_Triangle {
+position:absolute;
+left:25px;
+top:420px;
+background: #FF4500;
+height:100px;
+width:100px;
+border:10px solid #333333;
+}
+
+.triangle {
+width:0;
+height:0;
+border:solid 30px;
+margin:20px;
+}
+
+#Blue_Triangle {
+position:absolute;
+z-index:2px;
+left:400px;
+top:75px;
+height:200px;
+width:200px;
+border-color:transparent transparent blue transparent;
+z-index:1;
+}
+
+#Green_Ellipse {
+position:absolute;
+left:400px;
+top:290px;
+width:300px;
+height:100px;
+background:#FFE4C4;
+border-style:solid;
+border-color:green;
+border-radius:50%;
+z-index:0;
+}
+
+#Green_Triangle {
+position:absolute;
+left:400px;
+top:100px;
+border-color:green transparent transparent transparent;
+}
+
+#Magenta_Triangle {
+position:absolute;
+left:300px;
+top:100px;
+border-color:magenta transparent magenta transparent;
+}
+
+#Yellow_Triangle {
+position:absolute;
+left:250px;
+top:200px;
+border-color:transparent yellow transparent yellow;
+}
+
+#Red_Triangle {
+position:absolute;
+left 150px;
+top:200px;
+height:100px;
+width:250px;
+border-color:transparent transparent red transparent;
+}
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:400px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:225px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Select_All {
+position:relative;
+left:35px;
+}
+
+#Deselect_All {
+position:relative;
+left:35px;}
+
+#Undo {
+position:relative;
+left:60px;
+top:10px;
+}
+
+#Home {
+position:relative;
+left:60px;
+top:10px;
+}
+
+#All {
+position: relative;
+background-color:#FFE4C4;
+left:300px;
+bottom:400px;
+width:1100px;
+height:900px;
+border-style:solid;
+border-width:10px;
+}
+
+.img-r_logo_logo_en {
+position:relative;
+left:780px;
+bottom:400px;
+text-font:32px;
+}
+
+.Rest {
+  background: #008000;
+}

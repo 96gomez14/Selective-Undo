@@ -1,0 +1,245 @@
+.fxd_bg-wh_shadow_header {
+    position: relative;
+    left:300px;
+    bottom:550px;
+}
+
+.img-r_logo_logo_en {
+position:relative;
+right:50px;
+bottom:50px;
+}
+
+.menu-simple {
+  position:relative;
+  right:50px;
+}
+
+.krakatoa-container {
+position:relative;
+  top:300px;
+  right:270px;
+}
+
+.Secondary_info {
+  position:relative;
+  right:300px;
+}
+
+#All {
+position:relative;
+background-color:#FFE4C4;
+left:300px;
+bottom:350px;
+}
+
+#buttons {
+position:relative;
+padding-bottom:200px;
+}
+
+
+#right_buttons {
+position:relative;
+left:200px;
+}
+
+#left_buttons {
+position: absolute;
+}
+
+#Italy_image {
+  position:absolute;
+  width:400px;
+  height:400px;
+  right:1200px;
+  top:75px;
+}
+
+#More_info {
+  position:relative;
+  top:250px;
+  right:200px;
+}
+
+#tree_stuff {
+position:fixed;
+}
+
+#tasks {
+position:relative;
+background:#808080;
+width:800px;
+left:175px;
+}
+
+#Magnifier {
+position:fixed;
+height:300px;
+width:300px;
+top:200px;
+left:700px;
+}
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:300px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:250px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Select_All {
+position:relative;
+left:35px;
+}
+
+#Deselect_All {
+position:relative;
+left:35px;
+}
+
+#Undo {
+position:relative;
+left:60px;
+top:10px;
+}
+
+#Home {
+position:relative;
+top:10px;
+left:20px;
+}
+
+#Header {
+position:relative;
+background:Gray;
+width:400px;
+height:75px;
+left:300px;
+font-family:"Comic Sans MS";
+}
+
+#Header_format {
+text-align:center;
+}
+
+#Body {
+position:relative;
+background:Gray;
+height:300px;
+width:400px;
+left:300px;
+font-family:"Comic Sans MS";
+}
+#Body_format {
+text-align:center
+}
+
+#Icon {
+position:relative;
+left:350px;
+width:300px;
+height:200px;
+}
+
+#Icon1 {
+position:relative;
+left:200px;
+width:300px;
+height:200px;
+}
+
+#Icon2 {
+position:relative;
+left:200px;
+width:300px;
+height:200px;
+}
+
+.Add_Link_Unselected {
+display:none;
+}
+
+.Add_Link_Selected {
+display:inline;
+}
+
+.Add_Page_Unselected {
+display:none;
+}
+
+.Add_Page_Selected {
+display:inline;
+}
+
+.Add_Textbox_Unselected {
+display:none;
+}
+
+.Add_Textbox_Selected {
+display:inline;
+}
+
+.Add_Text_Unselected {
+display:none;
+}
+
+.Add_Text_Selected {
+display:inline;
+}
+
+.Add_Image_Unselected {
+display:none;
+}
+
+.Add_Image_Selected {
+display:inline;
+}
+
+.Set_Name_Unselected {
+display:none;
+}
+
+.Set_Name_Selected {
+display:inline;
+}
+
+.Add_Page_Image {
+  vertical-align: middle;
+}
+
+ul li.Clicked {
+background-color:purple;
+color:#F7FE2E;
+}
+
+ul li.Unclicked {
+background-color:#ffffff;
+color:#000000;
+}
+
+.Not_Magnified {
+display:none;
+}
+
+.Magnified {
+display:block;
+}
+
+img {
+padding-left:10px;
+width:15%;
+height:20%;
+}

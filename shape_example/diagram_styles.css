@@ -1,0 +1,42 @@
+#task_types {
+position:relative;
+height:300px;
+width:250px;
+background:#808080;
+border-radius:25px;
+}
+
+#task_list {
+position:absolute;
+height:300px;
+width:250px;
+left:280px;
+bottom:145px;
+background:#808080;
+border-radius:25px;
+}
+
+#header1 {
+position:relative;
+left:30px;
+font-family:"Comic Sans MS";
+}
+
+#header2 {
+position:relative;
+left:330px;
+bottom:385px;
+font-family:"Comic Sans MS";
+}
+
+#Bold {
+position:relative;
+top:100px;
+left:5px;
+font-family:"Comic Sans MS";
+font-size:40px;
+}
+
+#list {
+font-family:"Comic Sans MS";
+}

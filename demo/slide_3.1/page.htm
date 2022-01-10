@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="styles.css">
+<script type="text/javascript" src="popup.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript" src="events.js"></script>
+</head>
+<body>
+<div id="Whole_area">
+<button id="Select_All">Select All</button>
+<button id="Deselect_All">Deselect All</button><br>
+<div id="checkboxes">
+<label id="Intro"><input type="checkbox" class="page_label">Intro</label><br>
+<label><input type="checkbox" class="page_label">Abruzzo</label><br>
+<label><input type="checkbox" class="page_label">Aosta Valley</label><br>
+<label><input type="checkbox" class="page_label">Apulia</label><br>
+<label><input type="checkbox" class="page_label">Basilicata</label><br>
+<label><input type="checkbox" class="page_label">Calabria</label><br>
+<label><input type="checkbox" class="page_label">Campania</label><br>
+<label><input type="checkbox" class="page_label">Emilia-Romagna</label><br>
+<label><input type="checkbox" class="page_label">Friuli-Venezia Giulia</label><br>
+<label><input type="checkbox" class="page_label">Lazio</label><br>
+<label><input type="checkbox" class="page_label">Liguria</label><br>
+<label><input type="checkbox" class="page_label">Lombardy</label><br>
+<label><input type="checkbox" class="page_label">The Marches</label><br>
+<label><input type="checkbox" class="page_label">Molise</label><br>
+<label><input type="checkbox" class="page_label">Piedmont</label><br>
+<label><input type="checkbox" class="page_label">Sardinia</label><br>
+<label><input type="checkbox" class="page_label">Sicily</label><br>
+<label><input type="checkbox" class="page_label">Trentino-South Tyrol</label><br>
+<label><input type="checkbox" class="page_label">Tuscany</label><br>
+<label><input type="checkbox" class="page_label">Umbria</label><br>
+<label><input type="checkbox" class="page_label">Veneto</label><br>
+</div>
+<button id="Undo" type="button" Disabled>Undo</button>
+</div>
+
+<div id="All">
+<div id="buttons">
+<div id="left_buttons">
+<button class="button" type="button">Abruzzo</button><br>
+<button class="button" type="button">Aosta Valley</button><br>
+<button class="button" type="button">Apulia</button><br>
+<button class="button" type="button">Basilicata</button><br>
+<button class="button" type="button">Calabria</button><br>
+<button class="button" type="button">Campania</button><br>
+<button class="button" type="button">Emilia-Romagna</button><br>
+<button class="button" type="button">Friuli-Venezia Giulia</button><br>
+<button class="button" type="button">Lazio</button><br>
+<button class="button" type="button">Liguria</button><br>
+</div>
+<div id="right_buttons">
+<button class="button" type="button">Lombardy</button><br>
+<button class="button" type="button">The Marches</button><br>
+<button class="button" type="button">Molise</button><br>
+<button class="button" type="button">Piedmont</button><br>
+<button class="button" type="button">Sardinia</button><br>
+<button class="button" type="button">Sicily</button><br>
+<button class="button" type="button">Trentino-South Tyrol</button><br>
+<button class="button" type="button">Tuscany</button><br>
+<button class="button" type="button">Umbria</button><br>
+<button class="button" type="button">Veneto</button><br>
+</div>
+</div>
+
+<div class="fxd_bg-wh_shadow_header">
+  <div class="block-center section-pad">
+    <div class="float-cont">
+      <div class="float-l header-sx">
+        <h1>
+          <span class="img-r_logo_logo_en">Italian Tourism Official Website</span>
+        </h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="launcher_launcher-x3" style="position: relative; left:700px; bottom:800px; width: 100%; display: block;">
+  <div class="krakatoa-control"></div>
+  <div class="krakatoa-container" style="overflow: hidden; position: relative; height: 260px;">
+<div class="slide_current" style="position: absolute; top: 0px; left: 0px; display: block; width: 225px;">
+  <div class="rel_img">
+    <a class="rel_block" href="http://www.italia.it/en/travel-ideas/the-mountains/from-tarvisio-to-val-resia.html">
+      <img src="http://www.italia.it/en/uploads/tx_ptibanner/Tarvisio296_04.jpg" ref="uploads/tx_ptibanner/Tarvisio296_04.jpg" alt="From Tarvisio to Val Resia - Sanctuary of the Three Peoples on Monte Lussari" title="From Tarvisio to Val Resia" style="width: 100%;">
+    </a>
+    <div class="abs_z-10_section">
+      <span>The Mountains</span>
+    </div>
+  </div>
+  <div class="txt">
+    <h3>
+      <a href="http://www.italia.it/en/travel-ideas/the-mountains/from-tarvisio-to-val-resia.html">From Tarvisio to Val Resia</a>
+    </h3>
+    <p> Friuli Venezia Giulia</p>
+  </div>
+</div>
+<div class="slide_current" style="position: absolute; top: 0px; left: 235px; display: block; width: 225px;">
+  <div class="rel_img">
+    <a class="rel_block" href="http://www.italia.it/en/travel-ideas/gastronomy/balsamic-vinegar-of-modena.html">
+    <img src="http://www.italia.it/en/uploads/tx_ptibanner/Aceto_Balsamico_Modena_04.jpg" ref="uploads/tx_ptibanner/Aceto_Balsamico_Modena_04.jpg" alt="Balsamic Vinegar of Modena" title="Balsamic Vinegar of Modena" style="width: 100%;">
+  </a>
+  <div class="abs_z-10_section">
+    <span>Gastronomy</span>
+  </div>
+</div>
+<div class="txt">
+  <h3>
+    <a href="http://www.italia.it/en/travel-ideas/gastronomy/balsamic-vinegar-of-modena.html">Balsamic Vinegar of Modena</a>
+  </h3>
+  <p>Aging</p>
+</div>
+</div>
+<div class="slide_current" style="position: absolute; top: 0px; left: 470px; display: block; width: 225px;">
+  <div class="rel_img">
+    <a class="rel_block" href="http://www.italia.it/en/travel-ideas/art-cities/trento.html">
+      <img src="http://www.italia.it/en/uploads/tx_ptibanner/Tr/ento_Fontana_del_Nettuno_13.jpg" ref="uploads/tx_ptibanner/Trhttp://www.italia.it/ento_Fontana_del_Nettuno_13.jpg" alt="Fountain of Neptune" title="Trhttp://www.italia.it/ento" style="width: 100%;">
+    </a>
+    <div class="abs_z-10_section">
+      <span>Art Cities</span>
+    </div>
+  </div>
+  <div class="txt">
+    <h3>
+      <a href="http://www.italia.it/en/travel-ideas/art-cities/trento.html">Trento</a>
+    </h3>
+    <p>Fountain of Neptune</p>
+  </div>
+</div>
+</div>
+<div id="More_info">
+<ul class="float-cont menu-container"><li class="float-l menu-handler section-scopri"><a href="http://www.italia.it/en/discover-italy.html" class="block menu-link">Discover Italy</a><div class="abs drop-menu" style="display: none;"><div class="bg-wh pad shadow border"><div class="grid"><div class="col-1-3"><div class="grid-span"><div class="menu menu-v">
+  <h5>North</h5>
+  <ul><li><a href="http://www.italia.it/en/discover-italy/aosta-valley.html">Aosta Valley</a></li><li><a href="http://www.italia.it/en/discover-italy/piedmont.html">Piedmont</a></li><li><a href="http://www.italia.it/en/discover-italy/liguria.html">Liguria</a></li><li><a href="http://www.italia.it/en/discover-italy/lombardy.html">Lombardy</a></li><li><a href="http://www.italia.it/en/discover-italy/veneto.html">Veneto</a></li>
+    <li><a href="http://www.italia.it/en/discover-italy/trentino-alto-adige.html">Trentino Alto Adige</a></li><li><a href="http://www.italia.it/en/discover-italy/friuli-venezia-giulia.html">Friuli Venezia Giulia</a></li><li><a href="http://www.italia.it/en/discover-italy/emilia-romagna.html">Emilia Romagna</a></li></ul></div></div></div><div class="col-1-3"><div class="grid-span"><div class="menu menu-v">
+      <h5>Center</h5><ul><li><a href="http://www.italia.it/en/discover-italy/tuscany.html">Tuscany</a></li><li><a href="http://www.italia.it/en/discover-italy/umbria.html">Umbria</a></li><li><a href="http://www.italia.it/en/discover-italy/the-marches.html">The Marches</a></li><li><a href="http://www.italia.it/en/discover-italy/lazio.html">Lazio</a></li></ul></div></div></div>
+      <div class="col-1-3"><div class="grid-span"><div class="menu mhttp://www.italia.it/enu-v"><h5>South</h5><ul><li><a href="http://www.italia.it/en/discover-italy/campania.html">Campania</a></li><li><a href="http://www.italia.it/en/discover-italy/basilicata.html">Basilicata</a></li><li><a href="http://www.italia.it/en/discover-italy/abruzzo.html">Abruzzo</a></li><li>
+        <a href="http://www.italia.it/en/discover-italy/molise.html">Molise</a></li><li><a href="http://www.italia.it/en/discover-italy/apulia.html">Apulia</a></li><li><a href="http://www.italia.it/en/discover-italy/calabria.html">Calabria</a></li></ul></div><div class="menu menu-v"><h5>Islands</h5><ul><li><a href="http://www.italia.it/en/discover-italy/sardinia.html">Sardinia</a></li><li>
+          <a href="http://www.italia.it/en/discover-italy/sicily.html">Sicily</a></li></ul></div></div></div></div></div></div></li><li class="float-l mhttp://www.italia.it/enu-handler section-idee"><a href="http://www.italia.it/en/travel-ideas.html" class="block mhttp://www.italia.it/enu-link">Travel ideas</a><div class="abs drop-mhttp://www.italia.it/enu"><div class="bg-wh pad shadow border"><div class="grid">
+            <div class="col-1-3"><div class="grid-span"><div class="menu-v"><h5>Land and Nature</h5><ul><li><a href="http://www.italia.it/en/travel-ideas/the-sea.html">The Sea</a></li><li><a href="http://www.italia.it/en/travel-ideas/the-mountains.html">The Mountains</a></li><li><a href="http://www.italia.it/en/travel-ideas/lakes.html">Lakes</a></li>
+              <li><a href="http://www.italia.it/en/travel-ideas/nature-and-wildlife.html">Nature and Wildlife</a></li></ul></div></div></div><img id="Italy_image" src="http://www.lib.utexas.edu/maps/europe/italy_rel86.jpg"><div class="col-1-3"><div class="grid-span"><div class="menu menu-v"><h5>Culture, Art and History</h5><ul><li><a href="http://www.italia.it/en/travel-ideas/art-and-history.html">Art and History</a></li>
+                <li><a href="http://www.italia.it/en/travel-ideas/culture-and-entertainment.html">Culture and entertainment</a></li><li><a href="http://www.italia.it/en/travel-ideas/art-cities.html">Art Cities</a></li><li><a href="http://www.italia.it/en/travel-ideas/unesco-world-heritage-sites.html">UNESCO World Heritage Sites</a></li></ul></div></div></div><div class="col-1-3"><div class="grid-span"><div class="menu-v">
+                  <h5>Health and Activity</h5><ul><li><a href="http://www.italia.it/en/travel-ideas/sports-and-wellness.html">Sports and Wellness</a></li><li><a href="http://www.italia.it/en/travel-ideas/ways-to-travel.html">Ways to Travel</a></li></ul></div><div class="menu menu-v"><h5>Extras</h5><ul><li><a href="http://www.italia.it/en/travel-ideas/gastronomy.html">Gastronomy</a></li>
+                    <li><a href="http://www.italia.it/en/travel-ideas/religion-and-spirituality.html">Religion and Spirituality</a></li><li><a href="http://www.italia.it/en/travel-ideas/made-in-italy.html">Made in Italy</a></li></ul></div></div></div></div></div></div></li><li class="float-l menu-handler section-notizie"><a href="http://www.italia.it/en/news/1.html?cHash=77c1dc738e0e5dead100ec50fa3d3d08" class="block menu-link">News</a><div class="abs drop-menu">
+                      <div class="bg-wh pad shadow border"><div class="grid"><div class="col-3-5">
+
+                        <div class="Secondary_info">
+                        <div class="grid-span"><h5>Kishio Suga. Situations</h5><p>Milano, Hangar Bicocca</p><p><a href="http://www.italia.it/en/news/detail/kishio-suga-situations-28.html?cHash=3a78991e55b079d268ec783296372ed5" class="btn">Read more</a></p><h5>Edward Hopper</h5><p>Rome, Complesso del Vittoriano</p><p>
+                        <a href="http://www.italia.it/en/news/detail/edward-hopper-17.html?cHash=9f58fb93fc59621c8932340d7ecd9d5e" class="btn">Read more</a></p></div><div class="col-2-5"><div class="grid-span"><div class="menu-v"><h5>News</h5><ul><li><a href="http://www.italia.it/en/news/detail/lovecontemporary-art-meets-love-3.html?cHash=b1c528893e618f9573346002358607cf">LOVE.Contemporary art meets love</a></li><li><a href="http://www.italia.it/en/news/detail/maya-the-language-of-beauty-3.html?cHash=37832ab3e92bad880e6ed874dbdfdee3">Maya - The language of beauty</a>
+                        </li></ul></div><p><a href="http://www.italia.it/en/news/1.html?cHash=77c1dc738e0e5dead100ec50fa3d3d08" class="btn">Current news</a></p></div></div></div></div></div></li><li class="float-l menu-handler section-media"><a href="http://www.italia.it/en/media.html" class="Secondary_info" class="block menu-link">Video</a><div class="abs drop-menu"><div class="bg-wh pad shadow border">
+                          <div class="grid"><div class="col-1-2"><div class="Secondary_info" class="grid-span"><h5>Palermo, the Kalsa Quarter</h5><p>The Arabs conquered Sicily in the 9th Century A.D., leaving unmistakable traces of their rule.</p><p> They entered via Palermo's Porta dei Greci, where one...</p><p><a href="http://www.italia.it/en/media/video/palermo-the-kalsa-quarter.html" class="btn">Read more</a></p></div></div><div class="col-1-2"><div class="Secondary_info" class="grid-span">
+                            <h5>Pienza: The Ideal City</h5><p>The splendid City of Pienza, in Val d'Orcia (Siena - Tuscany), owes its fame and its beauty to the </p><p>personage that profoundly shaped its history...
+                          </p><p><a href="http://www.italia.it/en/media/video/pienza-the-ideal-city.html" class="btn">Read more</a></p></div></div></div></div></div></li><li class="Secondary_info" class="float-l menu-handler section-info"><a href="http://www.italia.it/en/useful-info.html" class="block menu-link">Info</a><div class="abs drop-menu"><div class="bg-wh pad shadow border"><div class="grid">
+                            <div class="col-1-3"><div class="grid-span"><div class=" menu-v"><ul><li><a href="http://www.italia.it/en/useful-info/high-speed-trains.html">High speed trains</a></li><li><a href="http://www.italia.it/en/useful-info/museums-buy-your-tickets-online.html">Museums - Buy your tickets online</a></li><li><a href="http://www.italia.it/en/useful-info/mobile-apps.html">Mobile Apps</a></li><li><a href="http://www.italia.it/en/useful-info/tourist-cards.html">Tourist Cards
+                            </a></li><li><a href="http://www.italia.it/en/useful-info/the-climate-in-italy.html">The climate in Italy</a></li></ul></div></div></div><div class="col-1-3"><div class="grid-span"><div class="menu-v"><ul><li><a href="http://www.italia.it/en/useful-info/embassies.html">Embassies</a></li><li><a href="http://www.italia.it/en/useful-info/how-to-arrive.html">How to arrive
+                            </a></li><li><a href="http://www.italia.it/en/useful-info/documents.html?no_cache=1">Documents</a></li><li><a href="http://www.italia.it/en/useful-info/rules-to-drive-in-italy.html">Rules to drive in Italy</a></li><li><a href="http://www.italia.it/en/useful-info/safety.html">Safety</a></li></ul></div></div></div><div class="col-1-3"><div class="grid-span"><div class="mhttp://www.italia.it/enu mhttp://www.italia.it/enu-v">
+                              <ul><li><a href="http://www.italia.it/en/useful-info/more-information.html">More information</a></li><li><a href="http://www.italia.it/en/useful-info/accessibility.html">Accessibility</a></li><li><a href="http://www.italia.it/en/useful-info/tips-for-tourists.html">Tips for Tourists</a></li><li><a href="http://www.italia.it/en/useful-info/rights-for-tourists.html">Rights for Tourists</a></li></ul></div></div></div></div></div></div></li>
+                              <li class="Secondary_info" class="float-l menu-handler section-map"><a href="http://www.italia.it/en/maps.html" class="block menu-link">Maps</a></li></ul></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

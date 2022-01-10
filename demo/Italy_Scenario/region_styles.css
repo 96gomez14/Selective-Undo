@@ -1,0 +1,74 @@
+img{
+border-style:solid;
+border-width:20px;
+}
+
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:400px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:250px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Select_All {
+position:relative;
+left:35px;
+}
+
+#Deselect_All {
+position:relative;
+left:35px;}
+
+#Undo {
+position:relative;
+left:60px;
+top:10px;
+}
+
+#Home {
+position:relative;
+left:60px;
+top:10px;
+}
+
+#All {
+position: relative;
+background-color:#FFE4C4;
+left:300px;
+bottom:425px;
+width:1100px;
+height:1100px;
+}
+
+.img-r_logo_logo_en {
+position:relative;
+left:780px;
+bottom:400px;
+text-font:32px;
+}
+/*
+h1 {
+position:relative;
+left:650px;
+bottom:400px;
+width:400px;
+height:100px;
+background-color:#008000;
+}
+*/
+.Rest {
+  background: #008000;
+}

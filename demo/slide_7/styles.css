@@ -1,0 +1,67 @@
+#region_info {
+position:relative;
+top:100px;
+right:175px;
+width:500px;
+height:250px;
+font-size:20px;
+}
+
+#Workspace {
+position:relative;
+left:300px;
+bottom:350px;
+padding-bottom:500px;
+background:#000000;
+}
+
+#heading {
+position:relative;
+left:225px;
+width:300px;
+height:50px;
+font-size:32px;
+bottom:200px;
+text-align:center;
+}
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:300px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:120px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Undo {
+position:relative;
+left:40px;
+top:10px;
+}
+
+#Tuscany {
+background:#808080;
+}
+
+#Tuscany_1_img {
+position:relative;
+top:100px;
+left:50px;
+}
+
+#Tuscany_2_img {
+position:relative;
+top:95px;
+left:150px;
+}

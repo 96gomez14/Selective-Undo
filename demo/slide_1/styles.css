@@ -1,0 +1,36 @@
+#whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:300px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:120px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Page_1 {
+background-color:#808080;
+}
+
+#Undo {
+position:relative;
+left:35px;
+top:10px;
+}
+
+#Workspace {
+position:relative;
+left:300px;
+bottom:370px;
+padding-bottom:450px;
+background-color:#000000;
+}
+

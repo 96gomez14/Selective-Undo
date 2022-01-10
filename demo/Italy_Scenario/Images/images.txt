@@ -1,0 +1,150 @@
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 1</label><img class="Add_Textbox_Image" src="Images/Abruzzo1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 1, 'Abruzzo'</label><img class="Add_Text_Image" src="Images/Veneto4.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 2</label><img class="Add_Textbox_Image" src="Images/basilicata3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 2, 'Aosta Valley'</label><img class="Add_Text_Image" src="Images/The_Marches1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 3</label><img class="Add_Textbox_Image" src="Images/Campania7.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 3, 'Apulia'</label><img class="Add_Text_Image" src="Images/Tuscany6.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 4</label><img class="Add_Textbox_Image" src="Images/Friuli6.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 4, 'Basilicata'</label><img class="Add_Text_Image" src="Images/calabria13.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 5</label><img class="Add_Textbox_Image" src="Images/Campania10.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 5, 'Calabria'</label><img class="Add_Text_Image" src="Images/Molise7.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 6</label><img class="Add_Textbox_Image" src="Images/insert_images.py"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 6, 'Campania'</label><img class="Add_Text_Image" src="Images/images.txt"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 7</label><img class="Add_Textbox_Image" src="Images/The_Marches3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 7, 'Emilia-Romagna'</label><img class="Add_Text_Image" src="Images/Emilia7.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 8</label><img class="Add_Textbox_Image" src="Images/Campania.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 8, 'Friuli-Venezia Giulia'</label><img class="Add_Text_Image" src="Images/Emilia17.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 9</label><img class="Add_Textbox_Image" src="Images/Tuscany5.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 9, 'Lazio'</label><img class="Add_Text_Image" src="Images/Sicily1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 10</label><img class="Add_Textbox_Image" src="Images/Emilia6.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 10, 'Liguria'</label><img class="Add_Text_Image" src="Images/Campania14.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 11</label><img class="Add_Textbox_Image" src="Images/Friuli1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 11, 'Lombardy'</label><img class="Add_Text_Image" src="Images/Liguria2.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 12</label><img class="Add_Textbox_Image" src="Images/Aosta3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 12, 'The Marches'</label><img class="Add_Text_Image" src="Images/Sardinia1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 13</label><img class="Add_Textbox_Image" src="Images/Emilia15.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 13, 'Molise'</label><img class="Add_Text_Image" src="Images/Emilia8.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 14</label><img class="Add_Textbox_Image" src="Images/Sardinia4.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 14, 'Piedmont'</label><img class="Add_Text_Image" src="Images/Sicily2.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 15</label><img class="Add_Textbox_Image" src="Images/Aosta7.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 15, 'Sardinia'</label><img class="Add_Text_Image" src="Images/Umbria1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 16</label><img class="Add_Textbox_Image" src="Images/Abruzzo3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 16, 'Sicily'</label><img class="Add_Text_Image" src="Images/Umbria7.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 17</label><img class="Add_Textbox_Image" src="Images/Sardinia2.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 17, 'Trentino-South Tyrol'</label><img class="Add_Text_Image" src="Images/Emilia10.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 18</label><img class="Add_Textbox_Image" src="Images/Trentino5.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 18, 'Tuscany'</label><img class="Add_Text_Image" src="Images/Lazio3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 19</label><img class="Add_Textbox_Image" src="Images/Campania9.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 19, 'Umbria'</label><img class="Add_Text_Image" src="Images/Aosta5.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 20</label><img class="Add_Textbox_Image" src="Images/Friuli10.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Text: Textbox 20, 'Veneto'</label><img class="Add_Text_Image" src="Images/Aosta2.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 21</label><img class="Add_Textbox_Image" src="Images/calabria4.png"><br></span>
+<span class="Set_Name_Unselected"><label><input type="checkbox">Set Name: Page 1, 'Intro'</label><img  class="Set_Name_Image" src="open.gif"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_1</label><img class="Add_Page_Image" src="Images/Friuli12.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_2</label><img class="Add_Page_Image" src="Images/.empty_images.txt.swp"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_3</label><img class="Add_Page_Image" src="Images/Lombardy4.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_4</label><img class="Add_Page_Image" src="Images/Umbria6.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_5</label><img class="Add_Page_Image" src="Images/basilicata7.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_6</label><img class="Add_Page_Image" src="Images/Umbria4.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_7</label><img class="Add_Page_Image" src="Images/Friuli9.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_8</label><img class="Add_Page_Image" src="Images/Piedmont3.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_9</label><img class="Add_Page_Image" src="Images/Friuli2.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_10</label><img class="Add_Page_Image" src="Images/Molise1.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_11</label><img class="Add_Page_Image" src="Images/calabria5.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_12</label><img class="Add_Page_Image" src="Images/Friuli5.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_13</label><img class="Add_Page_Image" src="Images/Umbria5.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_14</label><img class="Add_Page_Image" src="Images/Emilia19.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_15</label><img class="Add_Page_Image" src="Images/Tuscany7.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_16</label><img class="Add_Page_Image" src="Images/basilicata5.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_17</label><img class="Add_Page_Image" src="Images/Sardinia3.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_18</label><img class="Add_Page_Image" src="Images/Trentino7.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_19</label><img class="Add_Page_Image" src="Images/Veneto2.png"><br></span>
+<span class="Add_Page_Unselected"><label><input type="checkbox">Add Page: Page 1_20</label><img class="Add_Page_Image" src="Images/Piedmont1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 21</label><img class="Add_Textbox_Image" src="Images/Sicily3.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 21, 'Abruzzo'</label><img class="Add_Text_Image" src="Images/basilicata2.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 22</label><img class="Add_Textbox_Image" src="Images/Emilia12.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 22, 'Abruzzo is located in central Italy...'</label><img class="Add_Text_Image" src="Images/Emilia5.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 22, 'L'Acquilia'</label><img class="Add_Link_Image" src="Images/Tuscany2.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 22, '(regional capital),'</label><img class="Add_Text_Image" src="Images/Campania6.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 22, 'Pescara'</label><img class="Add_Link_Image" src="Images/Friuli13.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 22, ','</label><img class="Add_Text_Image" src="Images/Aosta4.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 22, 'Teramo'</label><img class="Add_Link_Image" src="Images/Tuscany4.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 22, 'and'</label><img class="Add_Text_Image" src="Images/Campania8.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 22, 'Chieti'</label><img class="Add_Link_Image" src="Images/basilicata6.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 22, '.'</label><img class="Add_Text_Image" src="Images/Abruzzo2.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 1</label><img class="Add_Image_Image" src="Images/Liguria4.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 23</label><img class="Add_Textbox_Image" src="Images/The_Marches2.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 23, 'Aosta Valley'</label><img class="Add_Text_Image" src="Images/calabria12.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 24</label><img class="Add_Textbox_Image" src="Images/calabria10.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 24, 'Aosta Valley is the smallest region in Italy;...'</label><img class="Add_Text_Image" src="Images/calabria7.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 24, 'Aosta'</label><img class="Add_Link_Image" src="Images/Lombardy5.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 24, '(regional capital).\n\n\nThe road...'</label><img class="Add_Text_Image" src="Images/Tuscany3.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 24, 'Aosta'</label><img class="Add_Link_Image" src="Images/Lazio2.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 24, '. This essentially Roman city shows...'</label><img class="Add_Text_Image" src="Images/Veneto3.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 2</label><img class="Add_Image_Image" src="Images/Lombardy3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 25</label><img class="Add_Textbox_Image" src="Images/Tuscany1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 25, 'Apulia'</label><img class="Add_Text_Image" src="Images/Lazio4.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 26</label><img class="Add_Textbox_Image" src="Images/basilicata4.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 26, 'Also know as "Le Puglie" in the plural form,...'</label><img class="Add_Text_Image" src="Images/Lombardy2.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 3</label><img class="Add_Image_Image" src="Images/Emilia14.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 27</label><img class="Add_Textbox_Image" src="Images/Abruzzo4.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 27, 'Basilicata'</label><img class="Add_Text_Image" src="Images/Lombardy1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 28</label><img class="Add_Textbox_Image" src="Images/Emilia13.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 28, 'Basilicata is embedded between'</label><img class="Add_Text_Image" src="Images/calabria3.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 28, 'Calabria'</label><img class="Add_Link_Image" src="Images/Trentino6.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 28, 'and'</label><img class="Add_Text_Image" src="Images/Friuli3.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 28, 'Apulia'</label><img class="Add_Link_Image" src="Images/Campania12.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 28, 'in the south of Italy.\n\nOne...'</label><img class="Add_Text_Image" src="Images/Umbria3.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 4</label><img class="Add_Image_Image" src="Images/Piedmont4.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 29</label><img class="Add_Textbox_Image" src="Images/Trentino2.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 29, 'Calabria'</label><img class="Add_Text_Image" src="Images/calabria9.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 30</label><img class="Add_Textbox_Image" src="Images/Trentino1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 30, 'Calabria is at the toe of the boot,...'</label><img class="Add_Text_Image" src="Images/Umbria2.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 30, 'Catanzaro'</label><img class="Add_Link_Image" src="Images/Lazio1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 30, '(region capital),'</label><img class="Add_Text_Image" src="Images/Molise3.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 30, 'Reggio Calabria'</label><img class="Add_Link_Image" src="Images/Emilia9.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 30, ','</label><img class="Add_Text_Image" src="Images/Sicily4.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 30, 'Cosenza'</label><img class="Add_Link_Image" src="Images/Emilia3.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 30, ','</label><img class="Add_Text_Image" src="Images/Aosta6.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 30, 'Crotone'</label><img class="Add_Link_Image" src="Images/Aosta1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 30, 'and'</label><img class="Add_Text_Image" src="Images/Emilia2.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 30, 'Vibo Valentia'</label><img class="Add_Link_Image" src="Images/Piedmont6.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 30, '.'</label><img class="Add_Text_Image" src="Images/Molise2.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 5</label><img class="Add_Image_Image" src="Images/Trentino4.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 31</label><img class="Add_Textbox_Image" src="Images/Veneto1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 31, 'Campania'</label><img class="Add_Text_Image" src="Images/empty_images.txt"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 32</label><img class="Add_Textbox_Image" src="Images/basilicata1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 32, 'Campania is one of the regions of Southern Italy...'</label><img class="Add_Text_Image" src="Images/Molise4.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 32, 'Naples'</label><img class="Add_Link_Image" src="Images/Campania11.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 32, '(the regional capital),'</label><img class="Add_Text_Image" src="Images/Emilia1.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 32, 'Caserta'</label><img class="Add_Link_Image" src="Images/calabria11.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 32, ','</label><img class="Add_Text_Image" src="Images/Emilia16.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 32, 'Benevento'</label><img class="Add_Link_Image" src="Images/Veneto6.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 32, ','</label><img class="Add_Text_Image" src="Images/calabria6.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 32, 'Avellino'</label><img class="Add_Link_Image" src="Images/Sicily5.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 32, 'and'</label><img class="Add_Text_Image" src="Images/Sardinia5.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 32, 'Salerno'</label><img class="Add_Link_Image" src="Images/Campania13.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 32, '.'</label><img class="Add_Text_Image" src="Images/Emilia20.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 6</label><img class="Add_Image_Image" src="Images/Friuli4.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 7</label><img class="Add_Image_Image" src="Images/Emilia11.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 33</label><img class="Add_Textbox_Image" src="Images/Emilia18.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 33, 'Emilia-Romagna'</label><img class="Add_Text_Image" src="Images/Campania2.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 34</label><img class="Add_Textbox_Image" src="Images/Friuli8.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 34, 'Emilia Romagna lies between the River Po...'</label><img class="Add_Text_Image" src="Images/Abruzzo5.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 34, 'Veneto'</label><img class="Add_Link_Image" src="Images/Molise5.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 34, 'up to Monfalcone,...'</label><img class="Add_Text_Image" src="Images/Veneto7.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 34, 'Trieste'</label><img class="Add_Link_Image" src="Images/Friuli11.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 34, '(regional capital),'</label><img class="Add_Text_Image" src="Images/Veneto5.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 34, 'Gorizia'</label><img class="Add_Link_Image" src="Images/Molise8.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 34, ','</label><img class="Add_Text_Image" src="Images/Friuli7.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 34, 'Pordenone'</label><img class="Add_Link_Image" src="Images/Piedmont7.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 34, ','</label><img class="Add_Text_Image" src="Images/Piedmont5.png"><br></span>
+<span class="Add_Link_Unselected"><label><input type="checkbox">Add Link: Textbox 34, 'Udine'</label><img class="Add_Link_Image" src="Images/calabria2.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 34, '.'</label><img class="Add_Text_Image" src="Images/Campania4.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 8</label><img class="Add_Image_Image" src="Images/Trentino3.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 35</label><img class="Add_Textbox_Image" src="Images/Liguria1.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 35, 'Friuli-Venezia Giulia'</label><img class="Add_Text_Image" src="Images/Campania5.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 36</label><img class="Add_Textbox_Image" src="Images/Liguria5.png"><br></span>
+<span class="Add_Text_Unselected"><label><input type="checkbox">Add Text: Textbox 36, 'This region is situated in Italy's northeast...'</label><img class="Add_Text_Image" src="Images/Molise6.png"><br></span>
+<span class="Add_Image_Unselected"><label><input type="checkbox">Add Image: Image 9</label><img class="Add_Image_Image" src="Images/calabria1.png"><br></span>
+<span class="Add_Textbox_Unselected"><label><input type="checkbox">Add Textbox: Textbox 37</label><img class="Add_Textbox_Image" src="Images/Piedmont2.png"><br></span>

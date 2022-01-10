@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<meta charset="utf-8"/>
+<link rel="stylesheet" type="text/css" href="diagram_styles.css">
+<link rel="stylesheet" type="text/css" href="shapetree.css">
+<script  type="text/javascript" src="shapetreemenu.js"></script>
+</head>
+<body>
+<h1>Task Types</h1>
+<div id=tree_stuff>
+<ul id="treemenu" class="treeview" rel="open">
+<li>Add
+<ul rel="closed" class="submenu">
+<li id="Page" class="Unclicked">Square</li>
+<li id="Page" class="Unclicked">Trapezoid</li>
+<li id="Page" class="Unclicked">Triangle</li>
+</ul>
+</li>
+<li>Delete
+<ul rel="closed" class="submenu">
+<li id="Page" class="Unclicked">Square</li>
+</ul></li>
+<li>Replace</li>
+<li>Set
+<ul rel="closed" class="submenu">
+<li id="Color" class="Unclicked">Color</li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript">
+//ddtreemenu.createTree(treeid, enablepersist, opt_persist_in_days (default is 1))
+ddtreemenu.createTree("treemenu", true, 5)
+</script>
+<button id="Complete_Undo" Disabled>Undo</button>
+<button id="Reset" Disabled>Reset</button>
+</div>
+<h1 id="header2">Task List</h3>
+<div id="task_list">
+<div id="Bold">
+<b>//</b>
+TASKS
+<b>//</b>
+</div>
+</div>
+</body>
+</html>

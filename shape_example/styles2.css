@@ -1,0 +1,141 @@
+#Intro {
+background:#808080;
+}
+
+#Indent {
+position:relative;
+left:100px;
+}
+
+#Workspace {
+position:relative;
+left:300px;
+bottom:350px;
+padding-bottom:500px;
+background:#000000;
+}
+
+#Task_List {
+position:relative;
+left:370px;
+bottom:60px;;
+}
+
+#left_buttons {
+position:absolute;
+}
+
+#right_buttons {
+position:relative;
+padding-left:200px;
+}
+
+#Whole_area {
+padding-top:5px;
+padding-left:5px;
+padding-bottom:20px;
+width:300px;
+bottom:20px;
+}
+
+#checkboxes {
+position:relative;
+overflow-y:scroll;
+overflow-x:hidden;
+left:35px;
+width:120px;
+height:310px;
+border-style:solid;
+background:#FFFFFF;
+}
+
+#Undo {
+position:relative;
+left:40px;
+top:10px;
+}
+
+#Undo {
+position:relative;
+left:40px;
+bottom:290px;
+}
+
+#tree_stuff {
+position:absolute;
+}
+
+#tasks {
+position:relative;
+background:#808080;
+width:550px;
+height:800px;
+left:175px;
+bottom:60px;
+display:block;
+}
+
+#Magnifier {
+position:fixed;
+height:200px;
+width:200px;
+top:30px;
+left:450px;
+}
+
+.Add_Page_Selected {
+display:inline;
+}
+
+
+.Add_Textbox_Selected {
+display:inline;
+}
+
+
+.Add_Text_Selected {
+display:inline;
+}
+
+
+.Add_Image_Selected {
+display:inline;
+}
+
+
+.Set_Name_Selected {
+display:inline;
+}
+
+
+
+
+
+.Delete_Square_Image {
+position:relative;
+top:15px;
+}
+
+ul li.Clicked {
+background-color:purple;
+color:#F7FE2E;
+}
+
+ul li.Unclicked {
+background-color:#ffffff;
+color:#000000;
+}
+
+.Not_Magnified {
+display:none;
+}
+
+.Magnified {
+display:block;
+}
+
+img {
+padding-left:10px;
+width:40px;
+height:40px;
+}
